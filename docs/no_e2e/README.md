@@ -16,6 +16,7 @@ Bansal, Mayank, Alex Krizhevsky, and Abhijit Ogale. "Chauffeurnet: Learning to d
 
 2、Driving in Dense Traffic with Model-Free Reinforcement Learning
 主要是解决可变车道短，拐角处怎么学策略的问题
+![image](https://user-images.githubusercontent.com/10848033/115192590-98866480-a11d-11eb-9173-ad7d2afab194.png)
 
-![image](https://user-images.githubusercontent.com/10848033/115192482-755bb500-a11d-11eb-9d84-35dbea8d4be8.png)
+
 

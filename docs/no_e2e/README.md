@@ -12,3 +12,10 @@ Bansal, Mayank, Alex Krizhevsky, and Abhijit Ogale. "Chauffeurnet: Learning to d
 在实际操作中有真实驾驶测试。
 
 缺点：目前模仿学习做自动驾驶不是主流方式。不够鲁棒。但是历史思想来源之一。值得学习研究。懂历史才能知未来。
+
+
+2、Driving in Dense Traffic with Model-Free Reinforcement Learning
+主要是解决可变车道短，拐角处怎么学策略的问题
+
+![image](https://user-images.githubusercontent.com/10848033/115192482-755bb500-a11d-11eb-9d84-35dbea8d4be8.png)
+

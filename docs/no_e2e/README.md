@@ -1,7 +1,9 @@
-PART A 模仿学习 Imitating learing 
+PART A 
+模仿学习 Imitating learing 
 
 1、Chauffeurnet: Learning to drive by imitating the best and synthesizing the worst
-Bansal, Mayank, Alex Krizhevsky, and Abhijit Ogale. "Chauffeurnet: Learning to drive by imitating the best and synthesizing the worst." arXiv preprint arXiv:1812.03079 (2018).
+Bansal, Mayank, Alex Krizhevsky, and Abhijit Ogale. "Chauffeurnet: Learning to drive by imitating the best and synthesizing the worst." arXiv preprint arXiv:1812.03079 
+(2018).
 
 简介：这篇文章是强化学习做自动驾驶的经典之作。引用次数已经快300了。
 核心思想是 在3000万（60天）驾驶记录数据中，通过数据增强的方式，构建一些碰撞、异常处理的数据，从而提升模仿学习样本的多样性。

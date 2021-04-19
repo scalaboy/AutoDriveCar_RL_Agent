@@ -15,6 +15,8 @@ Bansal, Mayank, Alex Krizhevsky, and Abhijit Ogale. "Chauffeurnet: Learning to d
 
 
 2、Driving in Dense Traffic with Model-Free Reinforcement Learning
+Dhruv Mauria Saxena1, Sangjae Bae2, Alireza Nakhaei3, Kikuo Fujimura3, Maxim Likhachev1 ICRA2020
+
 主要是解决可变车道短，拐角处怎么学策略的问题
 ![image](https://user-images.githubusercontent.com/10848033/115192590-98866480-a11d-11eb-9173-ad7d2afab194.png)
 

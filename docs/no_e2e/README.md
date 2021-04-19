@@ -23,6 +23,16 @@ Dhruv Mauria Saxena1, Sangjae Bae2, Alireza Nakhaei3, Kikuo Fujimura3, Maxim Lik
 ![image](https://user-images.githubusercontent.com/10848033/115192590-98866480-a11d-11eb-9173-ad7d2afab194.png)
 
 
+PART C Inverse Reinforcement Learning
+
+Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model
+Jiankai Sun,  Lantao Yu,  Pinqian Dong, Bo Lu, Bolei Zhou
+The Chinese Univsersity of Hong Kong, Stanford Univsersity,
+Huazhong University of Science and Technology
+
+这篇文章是针对机器人算法做的优化，但很有借鉴意义。他本质是构建了一个对抗逆强化学习模型，能够更加有效的拟合专家行为。大家知道，逆强化学习是根据专家行为，来学习一个激励函数，
+用来构建模型来拟合专家的行为，但这个过程的监督信号是比较弱的，通过对抗逆强化学习，来有效增强学习到的模型的精确性。
+
 
 PART M  Multi-agent self-driving
 
@@ -44,5 +54,7 @@ G. Tan, “Distributed multiagent coordinated learning for autonomous
 driving in highways based on dynamic coordination graphs,” IEEE
 Transactions on Intelligent Transportation Systems, vol. 21, no. 2, pp.
 735–748, 2020.
+
+
 
 

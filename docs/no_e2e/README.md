@@ -26,7 +26,23 @@ Dhruv Mauria Saxena1, Sangjae Bae2, Alireza Nakhaei3, Kikuo Fujimura3, Maxim Lik
 
 PART M  Multi-agent self-driving
 
-P. Palanisamy, “Multi-agent connected autonomous driving using deep
+1、P. Palanisamy, “Multi-agent connected autonomous driving using deep
 reinforcement learning,” in 2020 International Joint Conference on
 Neural Networks (IJCNN). IEEE, 2020
+
+2、S. Bhalla, S. Ganapathi Subramanian, and M. Crowley, “Deep multi
+agent reinforcement learning for autonomous driving,” in Advances in
+Artificial Intelligence, C. Goutte and X. Zhu, Eds. Cham: Springer
+International Publishing, 2020,
+
+3、A. Wachi, “Failure-scenario maker for rule-based agent using multiagent
+adversarial reinforcement learning and its application to autonomous
+driving,” arXiv preprint arXiv:1903.10654, 2019.
+
+4、C. Yu, X. Wang, X. Xu, M. Zhang, H. Ge, J. Ren, L. Sun, B. Chen, and
+G. Tan, “Distributed multiagent coordinated learning for autonomous
+driving in highways based on dynamic coordination graphs,” IEEE
+Transactions on Intelligent Transportation Systems, vol. 21, no. 2, pp.
+735–748, 2020.
+
 

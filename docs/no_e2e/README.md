@@ -14,6 +14,8 @@ Bansal, Mayank, Alex Krizhevsky, and Abhijit Ogale. "Chauffeurnet: Learning to d
 缺点：目前模仿学习做自动驾驶不是主流方式。不够鲁棒。但是历史思想来源之一。值得学习研究。懂历史才能知未来。
 
 
+PART B model-free 
+
 2、Driving in Dense Traffic with Model-Free Reinforcement Learning
 Dhruv Mauria Saxena1, Sangjae Bae2, Alireza Nakhaei3, Kikuo Fujimura3, Maxim Likhachev1 ICRA2020
 
@@ -21,4 +23,10 @@ Dhruv Mauria Saxena1, Sangjae Bae2, Alireza Nakhaei3, Kikuo Fujimura3, Maxim Lik
 ![image](https://user-images.githubusercontent.com/10848033/115192590-98866480-a11d-11eb-9173-ad7d2afab194.png)
 
 
+
+PART M  Multi-agent self-driving
+
+P. Palanisamy, “Multi-agent connected autonomous driving using deep
+reinforcement learning,” in 2020 International Joint Conference on
+Neural Networks (IJCNN). IEEE, 2020
 

@@ -24,10 +24,11 @@ Dhruv Mauria Saxena1, Sangjae Bae2, Alireza Nakhaei3, Kikuo Fujimura3, Maxim Lik
 
 
 PART C model-base
+Guided Policy Search Model-based Reinforcement Learning for Urban Autonomous Driving   subject Robotics
+这篇文章是UC伯克利大学那个实验室的人做的研究。他们在三个场景中测试了这一方法（
+We conducted experiments under three different scenarios, straight lane, 90 turning, and circular roundabout.）
+发现效果还不错。他们的方法就是开发了一个 model-base的RL模型，来做驾驶策略搜索的向导。
 
-We conducted experiments under
-three different scenarios, straight lane, 90 turning, and
-circular roundabout.
 
 
 PART D Inverse Reinforcement Learning

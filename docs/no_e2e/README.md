@@ -25,7 +25,7 @@ Dhruv Mauria Saxena1, Sangjae Bae2, Alireza Nakhaei3, Kikuo Fujimura3, Maxim Lik
 
 PART C Inverse Reinforcement Learning
 
-Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model
+1 Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model
 Jiankai Sun,  Lantao Yu,  Pinqian Dong, Bo Lu, Bolei Zhou
 The Chinese Univsersity of Hong Kong, Stanford Univsersity,
 Huazhong University of Science and Technology
@@ -33,6 +33,12 @@ Huazhong University of Science and Technology
 这篇文章是针对机器人算法做的优化，但很有借鉴意义。他本质是构建了一个对抗逆强化学习模型，能够更加有效的拟合专家行为。大家知道，逆强化学习是根据专家行为，来学习一个激励函数，
 用来构建模型来拟合专家的行为，但这个过程的监督信号是比较弱的，通过对抗逆强化学习，来有效增强学习到的模型的精确性。
 
+2、Incorporating Multi-Context Into the Traversability Map for Urban Autonomous Driving Using Deep Inverse Reinforcement Learning
+David Hyunchul Shim
+School of Electrical Engineering, Korea Advanced Institute of Science and Technology, Daejeon, South Korea
+IEEE Robotics and Automation Letters ( Volume: 6, Issue: 2, April 2021) 
+
+这篇文章是韩国小哥的文章。也很有意思。他是把整个环境（包括行人 车 道路）的上下文动态信息糅合进整个net，然后预测一个可驾驶图。从而提升驾驶行为的精度。实验表明整个驾驶轨迹跟人类驾驶轨迹很接近。这个方法已经在实际测试车上用了
 
 PART M  Multi-agent self-driving
 

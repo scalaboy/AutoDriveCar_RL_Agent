@@ -9,3 +9,6 @@
 
 如果按强化学习的方法来分，则会分的很细，有 on-Policy off-Policy,有Imitation learning ，Inverse Reinforcement Learning,按是否对环境建模有Model-base和model-free，甚至有多个agent模拟的  Multi-agent reinforcement learning，但如果从解决实际问题的角度出发，则可以分的比较清楚。就是end2end的驾驶决策器和no_e2e的驾驶决策器。这样就不会陷入细枝末节的方法分类里。也许最终的自动驾驶决策器的产品形态不会让Agent完全接管，例如用规则作为Agent的补充，来防止Agent的bad case的驾驶事故，但端到端学习驾驶决策是RL-Agent长大成人的主要标志。在自动驾驶业务角度看具有划时代意义。
 
+关于资料整理
+
+我整理的都是我看过的论文，觉得还不错才放上来。每篇文章会做一个简明扼要的点评。文章有点多，我这个只是粗读。会精选几篇细读，然后跑一下代码。如果没有代码，觉得思路很好，准备动手把他实现了。实现的基本框架是在CARLA模拟器中跑Agent的策略。

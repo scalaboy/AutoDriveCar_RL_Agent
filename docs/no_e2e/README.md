@@ -23,7 +23,14 @@ Dhruv Mauria Saxena1, Sangjae Bae2, Alireza Nakhaei3, Kikuo Fujimura3, Maxim Lik
 ![image](https://user-images.githubusercontent.com/10848033/115192590-98866480-a11d-11eb-9173-ad7d2afab194.png)
 
 
-PART C Inverse Reinforcement Learning
+PART C model-base
+
+We conducted experiments under
+three different scenarios, straight lane, 90 turning, and
+circular roundabout.
+
+
+PART D Inverse Reinforcement Learning
 
 1 Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model
 Jiankai Sun,  Lantao Yu,  Pinqian Dong, Bo Lu, Bolei Zhou
